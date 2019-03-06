@@ -1,4 +1,4 @@
 accounts.db
-.idea
+.idea/**
 
-/target
+loadtest/target/**
